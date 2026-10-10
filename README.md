@@ -2,6 +2,12 @@
 
 [Português (Brasil)](README.pt-BR.md)
 
+## Demo
+
+[![Open demo](https://img.shields.io/badge/demo-live-2ea44f)](https://csb-5ehnre.netlify.app/)
+
+Open in your browser. No installation or terminal required. Historical prototype with placeholder projects and links.
+
 ## Idea and process
 
 A historical static personal-portfolio prototype. Source reviewed on 2026-10-01. No dated plan, wireframes or development diary was found in the reviewed files. Existing biography text is historical page content, not newly verified credentials. This update does not change personal claims or contact destinations.
@@ -18,7 +24,7 @@ The project entries have placeholder titles/descriptions and # images. Navigatio
 python3 -m http.server 8000
 ```
 
-Local command suggested, not run here. The original [Netlify URL](https://csb-5ehnre.netlify.app/) returned page content on 2026-10-01, including the four placeholder projects. That read does not prove all assets, links or mobile layout work. No deploy was changed.
+Local command suggested, not run here. The original Netlify preview returned page content on 2026-10-01, including the four placeholder projects. That read does not prove all assets, links or mobile layout work. No deploy was changed.
 
 ## Testing and snapshots
 
@@ -29,7 +35,3 @@ No automated test script appears in the reviewed manifest. No browser/manual tes
 Original third-party template/code/assets and credits are preserved below. No new license is applied. The existing manifest credits CodeSandbox static-template and Ives van Hoorne and declares MIT; that declaration remains unchanged.
 
 ---
-
-## Original README
-
-To access the live website please click on the link: [(https://csb-5ehnre.netlify.app/)](https://csb-5ehnre.netlify.app/)
