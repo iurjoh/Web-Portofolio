@@ -2,6 +2,12 @@
 
 [English](README.md)
 
+## Demo
+
+[![Abrir demo](https://img.shields.io/badge/demo-live-2ea44f)](https://csb-5ehnre.netlify.app/)
+
+Abra no navegador, sem instalar nada ou usar o terminal. Protótipo histórico com projetos e links placeholder.
+
 ## Ideia e processo
 
 Protótipo histórico de portfólio pessoal estático. Código revisado em 01/10/2026. Não foram encontrados plano datado, wireframes ou diário nos arquivos revisados. Biografia existente é conteúdo histórico, não credenciais recém-verificadas. Atualização não muda afirmações pessoais ou destinos de contato.
@@ -18,7 +24,7 @@ Projetos têm títulos/descrições e imagens #. Navegação/Download CV também
 python3 -m http.server 8000
 ```
 
-Comando sugerido, não executado. [URL Netlify original](https://csb-5ehnre.netlify.app/) retornou conteúdo em 01/10/2026, com quatro projetos placeholder. Leitura não comprova assets, links ou mobile. Deploy não alterado.
+Comando sugerido, não executado. O preview Netlify original retornou conteúdo em 01/10/2026, com quatro projetos placeholder. Leitura não comprova assets, links ou mobile. Deploy não alterado.
 
 ## Testes e capturas
 
