@@ -33,3 +33,16 @@ Manifest revisado sem script automatizado de teste. Nenhum teste manual/navegado
 ## Créditos e licença
 
 Template/código/assets e créditos de terceiros preservados no [apêndice inglês](README.md#original-readme). Nenhuma licença nova. Manifest existente credita CodeSandbox static-template/Ives van Hoorne e declara MIT, preservado.
+
+## Retrato da tecnologia e do esforço
+
+Registro das fontes do repositório em 2026-10-14. É um retrato do código, não uma afirmação sobre versões em produção nem sobre a tecnologia disponível no lançamento original.
+
+- **Stack neste registro:** HTML e CSS; package.json preserva um template estático do CodeSandbox. Suas ferramentas não são apresentadas como framework de aplicação original.
+- **Registro anterior:** A janela original de desenvolvimento não foi estabelecida nos arquivos revisados; os créditos do template de terceiros permanecem intactos.
+- **Janela de calendário observada:** 2026-10-10 a 2026-10-10: apenas registros visíveis de criação/atualização de PRs. Janela completa de implementação não estabelecida.
+- **Pull requests:** 1 PR visível: 0 abertos, 1 fechado, consultados em 2026-10-14 antes desta alteração. Fechado não significa mergeado. Histórico apagado/recriado não entra na contagem.
+- **Decisão e motivo:** Um protótipo estático registra a estrutura inicial; projetos e links de exemplo permanecem explicitamente históricos, não evidência do portfólio atual.
+- **Estimativa de esforço ativo:** indisponível. Não foi estabelecido um registro confiável de tempo nem uma reconstrução delimitada das sessões de trabalho. Contagem de commits e tempo de calendário não são convertidos em horas.
+
+Evidências: arquivos de dependências/código citados acima, histórico Git preservado e lista de PRs do repositório. Versões e contagens pertencem a este registro, não são contadores ao vivo.

@@ -35,3 +35,16 @@ No automated test script appears in the reviewed manifest. No browser/manual tes
 Original third-party template/code/assets and credits are preserved below. No new license is applied. The existing manifest credits CodeSandbox static-template and Ives van Hoorne and declares MIT; that declaration remains unchanged.
 
 ---
+
+## Technology and effort snapshot
+
+Captured from repository sources on 2026-10-14. This is a source snapshot, not a claim about production versions or the technology available at the original launch.
+
+- **Stack at this snapshot:** HTML and CSS; package.json retains a CodeSandbox static template. Template tooling is not claimed as an original application framework.
+- **Earlier record:** The original development window was not established from the reviewed files; third-party template credits remain intact.
+- **Observed calendar window:** 2026-10-10 to 2026-10-10: visible PR creation/update records only. Full implementation window not established.
+- **Pull requests:** 1 visible PRs: 0 open, 1 closed, captured 2026-10-14 before this documentation change. Closed does not mean merged. Deleted/recreated history is excluded.
+- **Decision and reason:** A static portfolio prototype records the early structure; placeholder projects and links remain explicitly historical, not current portfolio evidence.
+- **Estimated active effort:** unavailable. No reliable time log or bounded work-session reconstruction was established. Commit count and elapsed calendar time are not converted into hours.
+
+Evidence: current dependency/source files named above, retained Git history and the repository PR list. Versions and counts are fixed to this snapshot, not live counters.
